@@ -41,7 +41,8 @@ function Hero() {
           Kautsar
         </h1>
         <h2>Web Developer</h2>
-        <h2>+6285385038788</h2>
+        <h3>hadhasmg@gmail.com</h3>
+        <h3>+6285385038788</h3>
         <span>
           <a href="https://github.com/" target="_blank">
             <img src={githubIcon} alt="Github icon" />
