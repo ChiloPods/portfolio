@@ -44,10 +44,13 @@ function Hero() {
         <h3>hadhasmg@gmail.com</h3>
         <h3>+6285385038788</h3>
         <span>
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/ChiloPods" target="_blank">
             <img src={githubIcon} alt="Github icon" />
           </a>
-          <a href="https://linkedin.com/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/hadha-k-66059b266/"
+            target="_blank"
+          >
             <img src={linkedinIcon} alt="Linkedin icon" />
           </a>
         </span>
