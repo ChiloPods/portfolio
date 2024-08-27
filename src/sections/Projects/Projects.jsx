@@ -1,9 +1,9 @@
 import styles from "./ProjectsStyles.module.css";
-import viberr from "../../assets/viberr.png";
 import ProjectCard from "../../common/ProjectCard";
 import gofit from "../../assets/gofit.png";
 import golf from "../../assets/golf.png";
 import ohmu from "../../assets/ohmu-collection.png";
+import tableau from "../../assets/tableau.png";
 
 function Projects() {
   return (
@@ -27,6 +27,12 @@ function Projects() {
           link="https://github.com/ChiloPods/specimen-database"
           h3="Ohmu Collection"
           p="Invertebrate Species Database "
+        />
+        <ProjectCard
+          src={tableau}
+          link="https://public.tableau.com/app/profile/hadha.kautsar/vizzes"
+          h3="Tableau Project"
+          p="Kondisi Permukaan Jalan Kota Indonesia Tahun 2020 - 2023 "
         />
       </div>
     </section>

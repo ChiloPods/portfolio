@@ -36,6 +36,11 @@ function Skills() {
           skill="Hardware & Software Maintenance"
         />
       </div>
+      <hr />
+      <div className={styles.skillList}>
+        <SkillList src={checkMarkIcon} skill="Tableau Prep" />
+        <SkillList src={checkMarkIcon} skill="Tableau Desktop" />
+      </div>
     </section>
   );
 }
